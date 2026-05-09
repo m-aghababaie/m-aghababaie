@@ -29,11 +29,11 @@ and smart building researchers — not just learning exercises.
 | Library | What It Does | Install |
 |---|---|---|
 | [`bandit-risk`](https://github.com/m-aghababaie/bandit-risk) | Multi-armed bandit agents with insurance & property reward environments | `pip install bandit-risk` *(coming soon)* |
-| `tabular-risk-rl` | MC, SARSA, Q-Learning on building and insurance MDPs | Planned — Month 2 |
-| `dqn-buildings` | DQN family pre-configured for building control tasks | Planned — Month 3 |
-| `sac-hvac` | SAC/TD3 agents for HVAC and energy optimisation | Planned — Month 5 |
-| `thermal-gym` | Gymnasium-compatible thermal building environments | Planned — Month 6 |
-| `safe-risk-rl` | Offline RL + Lagrangian PPO for insurance decision constraints | Planned — Month 7 |
+| `tabular-risk-rl` | MC, SARSA, Q-Learning on building and insurance MDPs | Planned |
+| `dqn-buildings` | DQN family pre-configured for building control tasks | Planned |
+| `sac-hvac` | SAC/TD3 agents for HVAC and energy optimisation | Planned |
+| `thermal-gym` | Gymnasium-compatible thermal building environments | Planned |
+| `safe-risk-rl` | Offline RL + Lagrangian PPO for insurance decision constraints | Planned |
 
 ---
 
@@ -73,13 +73,6 @@ it will actively reduce it.**
 
 **From Bandits to Buildings**  
 *Applied Reinforcement Learning for Insurance-Grade Building Intelligence*
-
-Following an 8-month structured curriculum: Bandits → Tabular RL → Deep RL →  
-Policy Gradients → Continuous Control → Model-Based RL → Advanced Topics →  
-Capstone HVAC Agent.
-
-Every month produces a new open-source library and a set of documented
-learning repositories.
 
 ---
 
